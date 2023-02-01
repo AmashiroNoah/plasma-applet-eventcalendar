@@ -39,7 +39,7 @@ Or if you know how to make a pull request
 | da       | 184/219 |   84% |
 | de       | 215/219 |   98% |
 | el       | 167/219 |   76% |
-| es       | 190/219 |   86% |
+| es       | 218/219 |   99% |
 | fi       | 215/219 |   98% |
 | fr       | 186/219 |   84% |
 | he       | 216/219 |   98% |
@@ -54,4 +54,4 @@ Or if you know how to make a pull request
 | sv       | 179/219 |   81% |
 | tr       | 183/219 |   83% |
 | uk       | 157/219 |   71% |
-| zh_CN    | 163/219 |   74% |
+| zh_CN    | 166/219 |   75% |
